@@ -1,0 +1,6 @@
+{
+  "name": "Suicide Squad Command Center",
+  "description": "A premium, military-style command center and clan management system for the Suicide Squad Free Fire clan, featuring real-time dashboards, multilingual support, and structured admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
